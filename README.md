@@ -15,14 +15,14 @@ The notebook includes:
 ### Required Installations
 To run this project, you’ll need the following Python libraries. You can install them via pip:
 
-```
+```bash
 pip install pandas scikit-surprise scikit-learn ipywidgets
 ```
 
 ### Running the Notebook
 1. **Clone the Repository**:
    Clone this repository to your local machine:
-```
+```bash
    git clone https://gitlab.com/ntmebane/movie-recommendation-system.git
    cd movie-recommendation-system
 ```
@@ -31,9 +31,9 @@ pip install pandas scikit-surprise scikit-learn ipywidgets
 
 3. **Run the Jupyter Notebook**:
    Open the Jupyter Notebook to explore and run the code:
-
+```bash
    jupyter notebook movie_recommendation_system.ipynb
-
+```
 4. **Interact with the Notebook**:
    - **Train the Model**: Run each cell to load data, preprocess, train, and evaluate the model.
    - **Generate Recommendations**: Use the interactive input field in the notebook to type a user ID and view personalized movie recommendations.
