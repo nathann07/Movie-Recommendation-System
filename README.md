@@ -23,7 +23,7 @@ pip install pandas scikit-surprise scikit-learn ipywidgets notebook
 1. **Clone the Repository**:
    Clone this repository to your local machine:
 ```bash
-   git clone https://gitlab.com/ntmebane/movie-recommendation-system.git
+   git clone https://github.com/nathann07/Movie-Recommendation-System.git
    cd movie-recommendation-system
 ```
 
